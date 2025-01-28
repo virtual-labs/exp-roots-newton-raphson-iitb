@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 1 $$ $$ x2 = x1 - \\frac{f(x1)}{df(x1)} $$ $$\\text{equation } = x^2-cos(x) $$ $$ df(x) = 2x + sin(x) $$ $$\\text{What is function value of 3rd iteration using Newton Raphson method?}$$",
+      "qid": 1,
+      "option_a": "0.03382",
+      "option_b": "0.00026",
+      "option_c": "0",
+      "option_d": "0.00018",
+      "correct_option": "c"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 1 $$ $$ x2 = x1 - \\frac{f(x1)}{df(x1)} $$ $$\\text{equation } = x^2-cos(x) $$ $$ df(x) = 2x + sin(x) $$ $$\\text{What is root value of 3rd iteration using Newton Raphson method?}$$",
+      "qid": 2,
+      "option_a": "0.82413",
+      "option_b": "0.83822",
+      "option_c": "0.82413",
+      "option_d": "0.82413",
+      "correct_option": "a"
+   }
+]
