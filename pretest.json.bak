@@ -1,0 +1,29 @@
+[
+   {
+      "question": "If the convergence criteria is not satisfied",
+      "qid": 1,
+      "option_a": "then you will not get the root of the equation",
+      "option_b": "you may or may not get the root of the equation",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "b"
+   },
+   {
+      "question": "Newton raphson is a",
+      "qid": 2,
+      "option_a": "bracketing method",
+      "option_b": "open method",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "b"
+   },
+   {
+      "question": "New improved approximation of root is given by",
+      "qid": 3,
+      "option_a": "$$ x_2 = x_1 - \\frac{f(x_1)}{f'(x_1)} $$",
+      "option_b": "$$ x_2 = g(x) $$",
+      "option_c": "$$ x_2 = x_1 - \\frac{f(x_1)}{f'(x_1)}, \\quad f'(x_1) → \\text{at only first guess}  \\ $$",
+      "option_d": "$$ x_2 = x_1 - \\frac{f'(x_1)}{f(x_1)} $$",
+      "correct_option": "a"
+   }
+]
